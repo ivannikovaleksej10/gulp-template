@@ -2,7 +2,7 @@
 My gulp template.
 
 ## Preparing for work
-1. ` $ git clone ... `
+1. ` $ git clone https://github.com/ivannikovaleksej10/gulp-template.git `
 2. ` $ cd gulp `
 3. ` $ npm i `
 4. ` $ gulp `
